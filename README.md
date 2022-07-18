@@ -4,13 +4,13 @@ My name is Desmond Dadzie, I'm a student who is keenly interested in Cyber Secur
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=tokyonight&size=30&center=true&vCenter=true&width=1000&lines=I'm+Desmond+Dadzie;+Popularly+known+as+Cyber+Dessy;A+cyber+security+enthusiast;Upcoming+cloud+and+software+engineer;Jr.+Penetration+Tester+in+the+making.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=tokyonight&size=40&center=true&vCenter=true&width=1000&lines=I'm+Desmond+Dadzie;+Popularly+known+as+Cyber+Dessy;A+cyber+security+enthusiast;Upcoming+cloud+and+software+engineer;Jr.+Penetration+Tester+in+the+making.)](https://git.io/typing-svg)
 
 
 
 ## 📫 You can contact me via the social media platforms 👇🏽 
 
- [![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://https://www.linkedin.com/in/desmond-dadzie-0080b5181/)
+ [![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/desmond-dadzie-0080b5181/)
  [![Twitter](https://img.shields.io/badge/--linkedin?label=Twitter&logo=Twitter&style=social)](https://twitter.com/NharnahQwami)
  
  
