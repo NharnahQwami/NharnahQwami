@@ -4,7 +4,7 @@ My name is Desmond Dadzie, I'm a student who is keenly interested in Cyber Secur
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=tokyonight&size=40&center=true&vCenter=true&width=1000&lines=I'm+Desmond+Dadzie;+Popularly+known+as+Cyber+Dessy;A+Microsoft+Learn+Student+Ambassador;A+Google+Crowdsource+Influencer;Upcoming+Progressive+Web+Application+Developer;Jr.+Penetration+Tester+in+the+making.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=tokyonight&size=40&center=true&vCenter=true&width=1000&lines=I'm+Desmond+Dadzie;+Popularly+known+as+Cyber+Dessy;A+Microsoft+Learn+Student+Ambassador;A+Google+Crowdsource+Influencer;Upcoming+Progressive+Web+Applications+Developer;Jr.+Web+App+Penetration+Tester.)](https://git.io/typing-svg)
 
 
 
