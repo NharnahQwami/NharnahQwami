@@ -5,7 +5,7 @@ Currently, I'm learning more about Django and also pen-testing web applications 
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=tokyonight&size=40&center=true&vCenter=true&width=1000&lines=I'm+Desmond+Dadzie;+Also+known+as+Cyber+Dessy;Microsoft+Learn+Student+Ambassador;Google+Crowdsource+Influencer;Google+Product+Expert;Upcoming+Django+Developer;Jr.+Web+App+Penetration+Tester;Blockchain+Security+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=tokyonight&size=40&center=true&vCenter=true&width=1000&lines=I'm+Desmond+Dadzie;+Also+known+as+Cyber+Dessy;Microsoft+Learn+Student+Ambassador;Google+Crowdsource+Influencer;Google+Product+Expert;Upcoming+Django+Developer;Web+Apps+Penetration+Tester;Blockchain+Security+Enthusiast)](https://git.io/typing-svg)
 
 
 
