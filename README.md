@@ -1,10 +1,11 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 
-My name is Desmond Dadzie, I'm a student who is keenly interested in Cyber Security, Programming with Python, Cloud and Software Engineering. Currently, I'm learning Automation with Python to better improve my skills. 
+My name is Desmond Dadzie, a student who is keenly interested in Cyber Security, Programming with Python, and Blockchain/Web3 technologies. 
+Currently, I'm learning more about Django and also pen-testing web applications to improve my skills. 
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=tokyonight&size=40&center=true&vCenter=true&width=1000&lines=I'm+Desmond+Dadzie;+Popularly+known+as+Cyber+Dessy;A+Microsoft+Learn+Student+Ambassador;A+Google+Crowdsource+Influencer;Upcoming+Progressive+Web+Applications+Developer;Jr.+Web+App+Penetration+Tester.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=tokyonight&size=40&center=true&vCenter=true&width=1000&lines=I'm+Desmond+Dadzie;+Also+known+as+Cyber+Dessy;Microsoft+Learn+Student+Ambassador;Google+Crowdsource+Influencer;Google+Product+Expert;Upcoming+Django+Developer;Jr.+Web+App+Penetration+Tester;Blockchain+Security+Enthusiast)](https://git.io/typing-svg)
 
 
 
